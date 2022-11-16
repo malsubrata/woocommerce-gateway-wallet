@@ -1,0 +1,41 @@
+# Copyright (C) 2022 StandaloneTech
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Wallet Payments Gateway 1.0.0\n"
+"Report-Msgid-Bugs-To: https://woocommerce.com/my-account/create-a-ticket/\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-11T00:15:05+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"language-team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Domain: woocommerce-gateway-wallet\n"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Wallet Payments Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://satandalonetech.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds the Wallet Payments gateway to your WooCommerce checkout block."
+msgstr ""
+
+#. Author of the plugin
+msgid "StandaloneTech"
+msgstr ""
+
+#: assets/frontend/blocks.js:10
+msgid "Wallet Payments"
+msgstr ""
+
+#: assets/frontend/blocks.js:26
+msgid "| Current Balance: %s"
+msgstr ""
